@@ -1,5 +1,5 @@
 
-
+MyBlogs
 const Loader = () => {
   return (
     <div role="status">
